@@ -4,6 +4,11 @@ body{
 	color: white;
 }
 
+footer{
+
+	margin-top: 50px;
+}
+
 .frameL{
 
 	height: 400px;
@@ -43,7 +48,7 @@ img[Attributes Style] {
 	margin-top: 500px;
 
 	padding-top: 40px;
-
+    clear: both;
 }
 .sectionB{
 
@@ -53,6 +58,7 @@ img[Attributes Style] {
 	padding-top: 20px;
 
 margin-top: 1000px;
+clear: both;
 }
 
 .row{
